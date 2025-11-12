@@ -13,7 +13,6 @@ This enhanced version adds:
 
 - Python 3.8 or higher
 - A Google Cloud account (for Fact Check API)
-- Git installed on your computer
 
 ## How to Use the App
 
@@ -35,7 +34,7 @@ Humans need oxygen to breathe,1
 1. Upload your CSV file
 2. Select the text column (statements)
 3. Select the target column (labels)
-4. Enter your Google API key in the sidebar (Use this key: AIzaSyAu-jqo6Gz1Ubea3bj6NJShmKnCHoL6ZhI )
+4. Skip This -- Enter your Google API key in the sidebar
 5. Choose an NLP phase
 6. Click "Run Model Comparison"
 
