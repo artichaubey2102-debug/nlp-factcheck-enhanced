@@ -38,7 +38,7 @@ lemmatizer = WordNetLemmatizer()
 # Google Fact Check API Key (HARDCODED)
 # ============================
 # Replace 'YOUR_API_KEY_HERE' with your actual Google Fact Check API key
-GOOGLE_API_KEY = "YOUR_API_KEY_HERE"  # <-- PASTE YOUR API KEY HERE
+GOOGLE_API_KEY = "AIzaSyAu-jqo6Gz1Ubea3bj6NJShmKnCHoL6ZhI"  # <-- PASTE YOUR API KEY HERE
 
 # ============================
 # Google Fact Check API Integration (NEW)
